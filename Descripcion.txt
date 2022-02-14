@@ -1,0 +1,11 @@
+"La compañía de seguros TK-U necesita digitalizar la forma en que realizan cotizaciones de seguros para potenciales clientes, esto ayudara a reducir tiempo y se prevé incremente beneficios económicos para la empresa al poder realizar mas solicitudes por día. "	
+"Para todo cliente existe un precio base de 2,000 y todo prospecto debe responder una serie de preguntas para determinar los costos extras. Cabe mencionar que las cotizaciones solo se pueden ofrecer a personas mayores de edad. Cada cargo extra se calcula sobre el precio base. Las preguntas serán las siguientes:"	
+	-Cuál es su edad?
+	Si la edad está en el rangos de 18 a 24 años habrá un recargo del 10% 
+	Si la edad esta en el rango de 25 a 49 años habrá un recargo del 20%
+	Si la edad esta en el rango de 50 o más habrá un recargo de 30%  
+	-Está casado/a?
+	"Si la respuesta es si, los cargos extras para el conyugue se calculan utilizando los mismos rangos de edad que se utilizan para el solicitante"
+	Tiene hijos?
+	"Si la respuesta es si, por cada hijo habrá un recargo del 20% "
+Digitalizando el proceso de las cotizaciones se espera aumente el volumen de las mismas realizadas y de esta incrementar el numero de clientes de la empresa. 	

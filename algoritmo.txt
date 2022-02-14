@@ -1,0 +1,16 @@
+1.Solicitamos el nombre de la persona que desea la cotización del seguro.
+2.Solicitamos la edad de esa persona.
+3.Si la edad de la persona esta en un rango de 18-24 multiplico (2,000)x0.10 para obtener el porcentaje del cargo extra.
+4.Si la edad de la persona está en un rango de 25-49 multiplico (2,000)x0.20 para obtener el porcentaje del cargo extra.
+5.Si la tiene 50 años o más entonces multiplico (2,000)x0.30 para obtener el porcentaje del cargo extra
+6.Solicitamos al interesado su estado civil.
+7.Si esta casado entonces, solicitamos la edad de su conyugue.
+8. Si la edad del conyugue está en un rango de 18-24 multiplico (2,000)x0.10 para obtener el porcentaje del cargo extra por el conyugue.
+9. Si la edad del conyugue está en un rango de 25-49 multiplico (2,000)x0.20 para obtener el porcentaje del cargo extra por el conyugue.
+10. Si la edad del conyugue es 50 o más entonces multiplico (2,000)x0.10 para obtener el porcentaje del cargo extra por el conyugue.
+11.Preguntamos al interesado si tiene hijos
+12.Si no tiene hijos, realizamos los cálculos del total de dicha cotización en el paso 15.
+13.Si tiene hijos, solicitamos al interesado el número de hijos.
+14.El numero de hijos lo multiplicamos por el resultado del precio base 2,000 por 0.20.
+15. Hacemos las sumas de los resultados; cargo extra por edad del solicitante + cargo extra SI tiene conyugue + cargo extra SI tiene hijos. 
+16.Entregamos la cotización del seguro. 
